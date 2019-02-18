@@ -9,7 +9,7 @@ A simple react todo app that will allow you to add, archive, delete and search y
 First clone this repository.
 
 ```bash
-$ git clone https://github.com/elias-ela/LyricFinder.git
+$ git clone https://github.com/elias-ela/React-Todo-App.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
@@ -18,9 +18,11 @@ Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/e
 $ npm install # or yarn
 ```
 
-In the project directory, you can run:
+Finally,
 
-### `npm start` # or yarn
+```bash
+$ npm start # or yarn
+```
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
