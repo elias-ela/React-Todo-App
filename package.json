@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elias-ela.github.io/React-Todo-App/",
+  "homepage": "https://elias-ela.github.io/React-Todo-App",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.1",
